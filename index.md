@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## はじめに
 
-You can use the [editor on GitHub](https://github.com/HOgishima/mbcbt/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+このHPは，「マインドフルネス及び認知行動療法が報酬感受性に与える影響の検討」（承認番号2019-222）の研究のために設計された14日間のマインドフルネスプログラムを，限定的に公開しています。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+研究へ参加のご希望の方は，[こちらへ]()
 
-### Markdown
+## 使い方
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+指定のプログラムのクリックしてください。
 
-```markdown
-Syntax highlighted code block
+## プログラム
 
-# Header 1
-## Header 2
-### Header 3
+- [1日目（はじめに）]
+- [2日目（）]
+- [3日目（）]
+- [4日目]
+- [5日目]
+- [6日目]
+- [7日目]
+- [8日目]
+- [9日目]
+- [10日目]
+- [11日目]
+- [12日目]
+- [13日目]
+- [14日目]
 
-- Bulleted
-- List
+### お問い合わせ
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HOgishima/mbcbt/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+質問や問合せは，までお願いいたします。
