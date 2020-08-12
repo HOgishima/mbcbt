@@ -12,6 +12,7 @@
 
 ## プログラム
 
+※現在準備中のため，閲覧できないページがこざいます。
 - [1日目（はじめに）](https://hogishima.github.io/mfcbt/program/day1)
 - [2日目（呼吸の観察）](https://hogishima.github.io/mfcbt/program/day2)
 - [3日目（疑問への回答）](https://hogishima.github.io/mfcbt/program/day3)
