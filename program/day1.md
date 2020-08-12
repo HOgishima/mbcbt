@@ -81,7 +81,7 @@
 また，同一フォーム上で，今日あった良かったこと３つを書き出してください。  
 本格的な実践は明日からスタートします。
 
-[2日目 >](https://hogishima.github.io/mfcbt/program/day5)
+[2日目 >](https://hogishima.github.io/mfcbt/program/day2)
 
 
 [トップページ](https://hogishima.github.io/mfcbt/)
