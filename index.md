@@ -4,7 +4,7 @@
 
 14日間のマインドフルネスプログラムを公開しています。
 
-研究への参加をご希望の方は，[こちらへ](https://sites.google.com/view/mindfulness-cbt/%E3%83%9B%E3%83%BC%E3%83%A0)
+研究への参加をご希望の方は，[こちらへ](https://sites.google.com/view/kisoken/%E3%83%9B%E3%83%BC%E3%83%A0?authuser=1)
 
 ## 使い方
 
