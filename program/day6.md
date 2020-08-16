@@ -1,6 +1,6 @@
 ## 6日目（気づき）
 
-マインドフルネスを行うと，私たちが普段行っている活動の多くが，無意識的なものであることがわかります。
+　マインドフルネスを行うと，私たちが普段行っている活動の多くが，無意識的なものであることがわかります。
 たとえば，思考ひとつとっても，私たちは普段自ら考えて，理知的にそれをコントロールしていると感じていますが，
 実際には，思考は私たちの意図しないところで勝手に生じるもので，考えるという行為は，思考に夢中になっているだけであることがわかります。
 
@@ -45,8 +45,8 @@
 ワークは，昨日同様です。  
 [リンク](https://drive.google.com/file/d/1U8oGNC1Wz5UJurHykOVMn7yFpvVuaCco/view?usp=sharing)をクリックして，音声を聴きながら呼吸法を1日最低1回行ってください（可能なら2回行ってください）。  
 
-[< 4日目](https://hogishima.github.io/mfcbt/program/day5)
+[< 5日目](https://hogishima.github.io/mfcbt/program/day5)
 
-[6日目 >](https://hogishima.github.io/mfcbt/program/day7)
+[7日目 >](https://hogishima.github.io/mfcbt/program/day7)
 
 [トップページ](https://hogishima.github.io/mfcbt/)
