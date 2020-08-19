@@ -78,13 +78,13 @@
 メールで送られるアンケートファームに回答してください。  
 また，同一フォーム上で，今日あった良かったこと３つを書き出してください。  
 
-今日のワークは，食べるトレーニングと３分間呼吸空間法です。 
-それぞれのトレーニングは，以下のリンクから音声を聴くことができます。  
-[食べるトレーニング](https://drive.google.com/file/d/1V6YrADGpS1L-72CLW-GrTJRvH2dygyvv/view?usp=sharing)  
-[３分間呼吸空間法](https://drive.google.com/file/d/1joF0thGvM60i547uUqWYDUZqiRTAbSJm/view?usp=sharing)
+今日は，食べるトレーニングと３分間呼吸空間法をワークとして行います。 
+それぞれのトレーニングは，以下のリンクをクリックすると音声が再生されます。  
+[食べるトレーニング](https://drive.google.com/file/d/1-u2zAbMDjAk3J80f1fRlNZOlzSVGCpzC/view?usp=sharing)  
+[３分間呼吸空間法](https://drive.google.com/file/d/1zNFI61D6SpsBwPiPs_D19ndxzR6SuCrB/view?usp=sharing)
 
 食べるトレーニングは，正式なものでは「レーズン」が用いられます。
-もしレーズンがない場合は，「チョコレート」や「お煎餅」，あるいは「コーヒー」などでよいでしょう。  
+もしレーズンが手元にない場合は，「チョコレート」や「お煎餅」，あるいは「コーヒー」などでよいでしょう。  
 なるべく舌触り，手触り，匂い，見た目など，情報量が豊かで，様々な五感を刺激する食べ物がよいです。
 ３分間呼吸空間法は最低１回，可能なら気づいた時にはいつでも行います。
 
