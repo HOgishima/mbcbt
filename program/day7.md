@@ -90,7 +90,7 @@
 メールで送られるアンケートファームに回答してください。  
 また，同一フォーム上で，今日あった良かったこと３つを書き出してください。  
 ワークは，昨日同様です。明日からまた新しいワークがスタートします。  
-[リンク](https://drive.google.com/file/d/1U8oGNC1Wz5UJurHykOVMn7yFpvVuaCco/view?usp=sharing)をクリックして，音声を聴きながら呼吸法を1日最低1回行ってください（可能なら2回行ってください）。  
+[リンク](https://drive.google.com/file/d/1wQJl_EH-YImBwdVQ3qjQ3Oqo5lCpJKTA/view?usp=sharing)をクリックして，音声を聴きながら呼吸法を1日最低1回行ってください（可能なら2回行ってください）。  
 
 [< 6日目](https://hogishima.github.io/mfcbt/program/day6)
 
