@@ -94,7 +94,7 @@
 また，今日も日常の中で何か一つ活動を決めて，マインドフルネスに活動を行ってみましょう。  
 
 
-[< 9日目](https://hogishima.github.io/mfcbt/program/day)
+[< 9日目](https://hogishima.github.io/mfcbt/program/day9)
 
 [11日目 >](https://hogishima.github.io/mfcbt/program/day11)
 
