@@ -23,7 +23,7 @@
 - [8日目（マインドフルネスを日常に生かす）](https://hogishima.github.io/mfcbt/program/day8)
 - [9日目（being/doing）](https://hogishima.github.io/mfcbt/program/day9)
 - [10日目（内受容感覚）](https://hogishima.github.io/mfcbt/program/day10)
-- [11日目（感情に対処する）](https://hogishima.github.io/mfcbt/program/day11)
+- [11日目（圧倒されるような感情に対処する）](https://hogishima.github.io/mfcbt/program/day11)
 - [12日目（慈悲）](https://hogishima.github.io/mfcbt/program/day12)
 - [13日目（自分自身であること）](https://hogishima.github.io/mfcbt/program/day13)
 - [14日目（おわりに）](https://hogishima.github.io/mfcbt/program/day14)
