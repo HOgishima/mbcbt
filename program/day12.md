@@ -95,7 +95,7 @@
 また，同一フォーム上で，今日あった良かったこと３つを書き出してください。  
 
 今日は，慈悲のトレーニングを行っていきます。  
-[リンク](https://drive.google.com/file/d/1kPNHkA0MpkMZxqXBbIKtJSB6wIPrdrdr/view?usp=sharing)をクリックして，音声を聴きながら1日最低1回行ってください（可能ならどこでも行いましょう）。  
+[リンク](https://drive.google.com/file/d/1kTE3_lcoKIycDihjSJzgNgBffXxgtYId/view?usp=sharing)をクリックして，音声を聴きながら1日最低1回行ってください（可能ならどこでも行いましょう）。  
 
 また，今日も日常の中で何か一つ活動を決めて，マインドフルネスに活動を行ってみましょう。  
 
