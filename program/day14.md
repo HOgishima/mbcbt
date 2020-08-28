@@ -51,7 +51,7 @@
 みなさんの今後の生活が苦しみから解放され，実りあるものでありますように。
 
 
-[< 1日目](https://hogishima.github.io/mfcbt/program/day12)
+[< 13日目](https://hogishima.github.io/mfcbt/program/day13)
 
 
 [トップページ](https://hogishima.github.io/mfcbt/)
