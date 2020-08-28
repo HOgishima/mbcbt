@@ -40,11 +40,11 @@
 
 　また，今後マインドフルネスを行っていき気づきの能力が高まると，こころをより直接的に観察できるようになっていきます。
 そうなると，トレーニングでより直接的にこころを観察していきたいと感じるようになるかもしれません。
-みなさんの今後のマインドフルネスの進展を願って，最後にそのようなニーズに応える呼吸法の応用verを共有させていただきます。
+みなさんの今後のマインドフルネスの進展を願って，最後にそのような方を対象とする呼吸法の応用verを共有させていただきます。
 
 
-[呼吸法３（こころを観察する）](https://drive.google.com/file/d/1UBxpLYf-H8_NrTvRZFAxdwzFVzjonGn4/view?usp=sharing)　　
-[呼吸法４（純粋な気づきとしてのマインドフルネス）](https://drive.google.com/file/d/1LaSEyykbgjv4CXZhpoYqmqqz9AoGVABb/view?usp=sharing)　　
+[呼吸法３（こころを観察する）](https://drive.google.com/file/d/1UBxpLYf-H8_NrTvRZFAxdwzFVzjonGn4/view?usp=sharing)  
+[呼吸法４（純粋な気づきとしてのマインドフルネス）](https://drive.google.com/file/d/1LaSEyykbgjv4CXZhpoYqmqqz9AoGVABb/view?usp=sharing)  
 
 
 みなさんの今後の生活が苦しみから解放され，実りあるものでありますように。
