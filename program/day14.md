@@ -47,6 +47,7 @@
 [呼吸法４（純粋な気づきとしてのマインドフルネス）](https://drive.google.com/file/d/1LaSEyykbgjv4CXZhpoYqmqqz9AoGVABb/view?usp=sharing)  
 
 
+２週間おつかれさまでした。
 みなさんの今後の生活が苦しみから解放され，実りあるものでありますように。
 
 
