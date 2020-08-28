@@ -9,10 +9,10 @@
 今日は，このプログラムを通して，あなたが最も気に入ったトレーニングを行いましょう  
 [リンク]をクリックして，音声を聴きながら行ってください。  
 
-[呼吸法1（呼吸を観察する）](https://drive.google.com/file/d/1wQJl_EH-YImBwdVQ3qjQ3Oqo5lCpJKTA/view?usp=sharing)　　
-[呼吸法２（身体を観察する）](https://drive.google.com/file/d/1c6vvY49HIqYiqowO8xgVS7A4aqxmeXs6/view?usp=sharing)　　
+[呼吸法1（呼吸を観察する）](https://drive.google.com/file/d/1wQJl_EH-YImBwdVQ3qjQ3Oqo5lCpJKTA/view?usp=sharing)  
+[呼吸法２（身体を観察する）](https://drive.google.com/file/d/1c6vvY49HIqYiqowO8xgVS7A4aqxmeXs6/view?usp=sharing)  　
 [食べるトレーニング](https://drive.google.com/file/d/1-u2zAbMDjAk3J80f1fRlNZOlzSVGCpzC/view?usp=sharing)  
-[３分間呼吸空間法](https://drive.google.com/file/d/1zNFI61D6SpsBwPiPs_D19ndxzR6SuCrB/view?usp=sharing)　　
+[３分間呼吸空間法](https://drive.google.com/file/d/1zNFI61D6SpsBwPiPs_D19ndxzR6SuCrB/view?usp=sharing)  
 [慈悲](https://drive.google.com/file/d/1kTE3_lcoKIycDihjSJzgNgBffXxgtYId/view?usp=sharing)  
 
 また，今日も日常の中で何か一つ活動を決めて，マインドフルネスに活動を行ってみましょう。  
